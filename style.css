@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+
+div.container {
+    width: 1920px;
+    height: 600px;
+    background-image: url(./images/dawn2.PNG);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+div.profil {
+    width: 400px;
+    height: 400px;
+    padding: 63px;
+    border: 5px solid rgba(238, 238, 238, 0.53);
+    margin: 0 auto;
+    text-align: center;
+    float: left;
+}
+
+img {
+    border-radius: 50%;
+}
+
+div.presentation {
+    width: 400px;
+    height: 400px;
+    float: left;
+    padding: 100px;
+}
