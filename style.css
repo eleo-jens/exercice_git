@@ -5,9 +5,7 @@
 div.container {
     width: 1920px;
     height: 600px;
-    background-image: url(./images/dawn2.PNG);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background: linear-gradient(to right, #FDB99B, #CF8BF3, #A770EF);
 
 }
 
